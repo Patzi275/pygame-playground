@@ -14,10 +14,12 @@ To run any of the projects in this repository, follow these steps:
 
 ## Projects
 
-- (Square Fall)[./square_fall] - Game
-- (Square Shift)[./square_shift] - Game
-- (Tic Tac Toe with Minimax AI)[./tic_tac_toe] - Game
-- (Pipette)[./pipette] - Utils
+- [Square Fall](./square_fall) - Game
+- [Square Shift](./square_shift) - Game
+- [Tic Tac Toe with Minimax AI](./tic_tac_toe) - Game
+- [Pipette](./pipette) - Utils
+- [Falling Circle](./falling_circles) - Physics
+
 
 ## Contributing
 
