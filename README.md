@@ -1,12 +1,3 @@
-Nom du projet: "PyGame Playground"
-
-Description:
-"PyGame Playground" is a repository that serves as a playground for various PyGame projects. It includes games like Square Fall and Square Shift, a Tic Tac Toe game with an AI utilizing the Minimax algorithm, and a utility called "Pipette" that extracts colors from images. This repository will continue to host new PyGame projects and serve as a creative space for experimenting with game development using PyGame.
-
-Readme:
-
----
-
 # PyGame Playground
 
 Welcome to the PyGame Playground! This repository is a collection of various PyGame projects and utilities designed to explore game development using PyGame. It serves as a creative space for experimenting with game mechanics, graphics, and AI algorithms and more.
