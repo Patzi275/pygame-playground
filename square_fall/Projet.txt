@@ -1,0 +1,25 @@
+- LES OBJETS:
+	* Cubes tombantes:
+		Attributs distinctifs:
+			Couleur, type
+			
+		Autres attributs:
+			Dimension
+			Vitesse 	
+			Vecteur de deplacement (depend des points de départ et d'arrivés choisits aléatoirement)
+			Vitesse de rotation (aléatoire)
+
+			
+		Méthodes nécessaires:
+			Initialisation
+				Type (Renseigne sur la couleur)	//CONSTANTE : couleur pour un type
+				Dimension 
+				Vitesse
+				Vecteur de déplacement
+				!!! Marge de vitesse (max et min)	//CONSTANTE
+			Rendu
+			deplacement
+			rotation
+			detection de collision
+	
+	* 
